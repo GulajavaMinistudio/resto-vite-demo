@@ -2,7 +2,7 @@
     "name": "Restoran Vite",
     "short_name": "Resto Vite",
     "description": "Daftar restoran di sekitar anda yang siap pesan antar",
-    "start_url": "/index.html",
+    "start_url": "/resto-vite-demo/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#f55c47",
