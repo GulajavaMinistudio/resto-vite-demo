@@ -1,0 +1,103 @@
+{
+  "icons": [
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_1024x1024.d1fa59af3563eb3215b83ffb2a8d508d.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_1024x1024.d1fa59af3563eb3215b83ffb2a8d508d.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_180x180.cdf3f6f69025c2e104cf27e0dd3240a3.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_167x167.87f1dff7fb56b5ad4ba8f493ffd3d7f2.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_152x152.4f06f1ffdc72c751e61cef6b2cb8ce26.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/ios/icon_120x120.56b169d52f394714c845bb93af0ef855.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/icon_1024x1024.d1fa59af3563eb3215b83ffb2a8d508d.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/resto-vite-demo/icons/icon_1024x1024.d1fa59af3563eb3215b83ffb2a8d508d.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_512x512.30c4c4e2aa18881b8f30b926908bfd5c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_384x384.292ef1e8cfc097d9da04edb3d0a2b205.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_256x256.88085bd7902f4f1394c4dcd1abe152c0.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_192x192.0d4d07bae3dbecad26d8ec33ed570e12.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_144x144.520a1465311dced10d646bf514e78ec4.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_128x128.9d57bd70f6e46ab9d878dc186c0e9185.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_96x96.842d663b0c718bf3c9ffc56269504940.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_72x72.0251453b6787cb0c2e680949dc697c0c.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_48x48.f5fe63b37e56ee74896c654d51567e36.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/resto-vite-demo/icons/android/icon_36x36.d741be0010b71dff1fceab5e39cb9612.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    }
+  ],
+  "name": "Restoran Vite",
+  "short_name": "Resto Vite",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "description": "Daftar restoran di sekitar anda yang siap pesan antar",
+  "background_color": "#ffffff",
+  "theme_color": "#f55c47"
+}
